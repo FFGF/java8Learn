@@ -1,0 +1,11 @@
+Java多线程干货系列（1）：Java多线程基础
+http://www.importnew.com/21136.html
+
+Java 并发工具包 java.util.concurrent 用户指南
+https://blog.csdn.net/u013851082/article/details/68488640
+
+Java Concurrency / Multithreading Tutorial
+http://tutorials.jenkov.com/java-concurrency/concurrency-models.html
+
+java.util.concurrent - Java Concurrency Utilities
+http://tutorials.jenkov.com/java-util-concurrent/index.html
